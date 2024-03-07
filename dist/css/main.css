@@ -96,6 +96,7 @@ h1 .thin {
   max-height: 85%;
   overflow-y: auto;
   margin: 0 50px 40px 0;
+  zoom: 0.8;
 }
 
 h2 {
